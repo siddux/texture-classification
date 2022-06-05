@@ -1,4 +1,4 @@
-#Rotation invariant texture segmentation
+# Rotation invariant texture segmentation
 
 This repository contains code for validate the rotation invariance of 4 texture descriptors based on Haralick parameters
 
